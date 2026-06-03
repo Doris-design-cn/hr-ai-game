@@ -6,7 +6,6 @@ export const Q1_OPTIONS: Option[] = [
   { id: 'C', label: 'C. AI 提供建议，HR 负责个性化落地' },
   { id: 'D', label: 'D. AI 是"协作助手"，不是"替代者"' },
   { id: 'E', label: 'E. HR 需要先学会"提问"，才能更好用 AI' },
-  { id: 'F', label: 'F. 其他（欢迎举手补充）' },
 ];
 
 export const Q2_OPTIONS: Option[] = [
